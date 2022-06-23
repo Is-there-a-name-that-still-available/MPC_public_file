@@ -1,4 +1,4 @@
-# problem discription is in "problem discription.png"
+# problem discription is in "problem discription cvxopt.png"
 
 import numpy as np
 import cvxopt
