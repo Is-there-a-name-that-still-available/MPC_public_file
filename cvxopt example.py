@@ -1,4 +1,4 @@
-# problem discription is in the Readme file
+# problem discription is in "problem discription.png"
 
 import numpy as np
 import cvxopt
