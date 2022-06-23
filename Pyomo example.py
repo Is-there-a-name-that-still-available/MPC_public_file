@@ -1,3 +1,6 @@
+import numpy as np
+import pyomo.environ as pyo
+
 com_position = [0, 0, 0.32] 
 com_velocity = [0, 0, 0]
 com_roll_pitch_yaw = [0., -0., 0.]
